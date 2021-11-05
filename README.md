@@ -8,3 +8,5 @@ McMillan."
 
 This repository contains all the files for this project. 
 You will find the IMPLEMENTATION AND REPRODUCIBILITY instructions in the file appendices.pdf
+
+The Thesis is in modelling-solar-evolution-mesa-evtwin-alexander-olza.pdf
