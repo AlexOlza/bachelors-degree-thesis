@@ -7,6 +7,6 @@ their structural properties. To achieve this we will make use of AMUSE- the Astr
 McMillan."
 
 This repository contains all the files for this project. 
-You will find the IMPLEMENTATION AND REPRODUCIBILITY instructions [here](appendices.pdf).
+You will find the **IMPLEMENTATION AND REPRODUCIBILITY** instructions [here](appendices.pdf).
 
 [**Click here to read my Thesis!**](modelling-solar-evolution-mesa-evtwin-alexander-olza.pdf)
